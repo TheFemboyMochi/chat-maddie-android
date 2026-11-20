@@ -1,0 +1,4 @@
+android.keystore
+*.apk
+*.aab
+app/
